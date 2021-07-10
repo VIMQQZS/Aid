@@ -1,0 +1,264 @@
+init aidlux cv2:                 ................  
+init aidlux cv2: ok                            
+remi.server.ws   INFO     handshake complete
+erro_:java.lang.RuntimeException: No valid dialog to assign value to.
+erro_:java.lang.RuntimeException: No valid dialog to assign value to.
+erro_:java.lang.RuntimeException: No valid dialog to assign value to.
+('model_path', '/home/examples-gpu/object-detection/model_data/ssdlite_mobilenet_v3.tflite')
+gpu: Result(id=0, result='load model ok!', error=None)
+connecting to usb bot
+Result(id=4, result='["OK"No Device458a78ff-91fa-3912-8b46-12036eddff48]', error=None)
+sendIndicatorToVehicle: 0
+open the cam:0 ...
+buf: Result(id=7, result='["OK"]', error=None) (480, 640, 3)
+w,h: 640 480
+buf: Result(id=9, result='["OK"]', error=None) (480, 640, 3)
+w,h: 640 480
+buf: Result(id=11, result='["OK"]', error=None) (480, 640, 3)
+w,h: 640 480
+buf: Result(id=13, result='["OK"]', error=None) (480, 640, 3)
+w,h: 640 480
+buf: Result(id=15, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [783 341]
+w,h: 640 480
+buf: Result(id=17, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 336]
+w,h: 640 480
+buf: Result(id=19, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [796 336]
+w,h: 640 480
+buf: Result(id=21, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=23, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=25, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=27, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=29, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=31, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [780 341]
+w,h: 640 480
+buf: Result(id=33, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [799 336]
+w,h: 640 480
+buf: Result(id=35, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [799 336]
+w,h: 640 480
+buf: Result(id=37, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 336]
+w,h: 640 480
+buf: Result(id=39, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [799 336]
+w,h: 640 480
+buf: Result(id=41, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [799 341]
+w,h: 640 480
+buf: Result(id=43, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [780 341]
+w,h: 640 480
+buf: Result(id=45, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 336]
+w,h: 640 480
+buf: Result(id=47, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=49, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=51, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [780 341]
+w,h: 640 480
+buf: Result(id=53, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=55, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [779 341]
+w,h: 640 480
+buf: Result(id=57, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=59, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=61, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=63, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [779 341]
+w,h: 640 480
+buf: Result(id=65, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=67, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 336]
+w,h: 640 480
+buf: Result(id=69, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 336]
+w,h: 640 480
+buf: Result(id=71, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [780 341]
+w,h: 640 480
+buf: Result(id=73, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=75, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=77, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [780 341]
+w,h: 640 480
+buf: Result(id=79, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=81, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=83, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=85, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=87, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=89, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=91, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=93, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=95, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=97, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=99, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=101, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [799 336]
+w,h: 640 480
+buf: Result(id=103, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [780 341]
+w,h: 640 480
+buf: Result(id=105, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=107, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=109, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=111, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=113, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=115, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [780 341]
+w,h: 640 480
+buf: Result(id=117, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=119, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=121, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=123, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=125, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=127, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [787 341]
+w,h: 640 480
+buf: Result(id=129, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=131, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=133, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [780 341]
+w,h: 640 480
+buf: Result(id=135, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=137, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=139, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=141, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=143, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=145, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=147, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=149, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=151, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=153, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=155, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=157, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=159, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=161, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=163, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=165, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=167, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=169, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=171, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=173, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=175, result='["OK"]', error=None) (480, 640, 3)
+ID 0 [789 341]
+w,h: 640 480
+buf: Result(id=177, result='["OK"]', error=None) (480, 640, 3)
